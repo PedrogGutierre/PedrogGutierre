@@ -1,16 +1,63 @@
-## Ola! Sou o Pedro 👋
-Meu nome é Pedro Gutierre, sou um desenvolvedor Full Stack, mas com foco principal em Frontend. Tenho experiência em criar interfaces de usuário intuitivas, responsivas e de alto desempenho, utilizando tecnologias como HTML, CSS, JavaScript, React e Tailwind CSS, além de outros frameworks modernos. Minha motivação no desenvolvimento é transformar ideias em soluções práticas e visualmente agradáveis, sempre com o objetivo de proporcionar a melhor experiência possível ao usuário.
-<!--
-**PedrogGutierre/PedrogGutierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Ola! Sou o Pedro 👋</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Sou um desenvolvedor Full Stack com foco em Frontend e atualmente estou me formando como engenheiro de software. Tenho experiência em criar interfaces intuitivas e responsivas com HTML, CSS, JavaScript, React, Tailwind CSS e outras tecnologias modernas. Minha motivação é transformar ideias em soluções práticas e visuais, sempre priorizando a melhor experiência do usuário.</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">💻 Buscando me aperfeiçoar cada vez mais em Frontend<br>📘 Estudando para me tornar um engenheiro de software completo<br>🎯 Gosto de transformar ideias em experiências digitais simples e eficazes<br>🎸 Apaixonado por guitarra e rock/metal</p>
+
+###
+
+<h2 align="left">Experiência / Experience</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<p align="left">-------------------------------------------------------------------------------------------</p>
+
+###
+
+<h1 align="left">Hello! I'm Pedro👋</h1>
+
+###
+
+<p align="left">I'm a Full Stack developer with a strong focus on Frontend, currently pursuing a degree in Software Engineering. I have experience building intuitive and responsive user interfaces using HTML, CSS, JavaScript, React, Tailwind CSS, and other modern technologies. My motivation is to turn ideas into practical and visually appealing solutions, always prioritizing the best user experience.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">💻 Always looking to improve my Frontend skills<br>📘 Studying to become a well-rounded Software Engineer<br>🎯 I enjoy turning ideas into simple and effective digital experiences<br>🎸 Passionate about guitar and rock/metal music</p>
+
+###
