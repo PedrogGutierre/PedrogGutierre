@@ -43,7 +43,6 @@
 ###
 
 <hr/>
-###
 
 <h1 align="left">Hello! I'm Pedro👋</h1>
 
