@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Ola! Sou o Pedro 👋
+Meu nome é Pedro Gutierre, sou um desenvolvedor Full Stack, mas com foco principal em Frontend. Tenho experiência em criar interfaces de usuário intuitivas, responsivas e de alto desempenho, utilizando tecnologias como HTML, CSS, JavaScript, React e Tailwind CSS, além de outros frameworks modernos. Minha motivação no desenvolvimento é transformar ideias em soluções práticas e visualmente agradáveis, sempre com o objetivo de proporcionar a melhor experiência possível ao usuário.
 <!--
 **PedrogGutierre/PedrogGutierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
