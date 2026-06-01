@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor Full Stack com foco em Frontend e atualmente estou me formando como engenheiro de software. Tenho experiência em criar interfaces intuitivas e responsivas com HTML, CSS, JavaScript, React, Tailwind CSS e outras tecnologias modernas. Minha motivação é transformar ideias em soluções práticas e visuais, sempre priorizando a melhor experiência do usuário.</p>
+<p align="left">Sou um desenvolvedor Full Stack e atualmente estou me formando como engenheiro de software. Tenho experiência em criar interfaces intuitivas e responsivas com HTML, CSS, JavaScript, React, Tailwind CSS e outras tecnologias modernas. Minha motivação é transformar ideias em soluções práticas e visuais, sempre priorizando a melhor experiência do usuário.</p>
 
 ###
 
